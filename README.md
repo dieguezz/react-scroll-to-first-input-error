@@ -33,8 +33,6 @@ npm install --save react-scroll-to-first-error
           </div>
         );
         }
-      …
-      <form ref={formEl} …
 ```
 
 ## License
