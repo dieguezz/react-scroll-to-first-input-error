@@ -13,7 +13,7 @@ npm install --save react-scroll-to-first-error
 ## Usage
 
 ```jsx
-      import React, { useRef } from 'react
+      import React, { useRef } from 'react'
       import useScrollToError from 'react-scroll-to-error'
 
       function App() {
