@@ -1,6 +1,6 @@
 {
   "name": "react-scroll-to-first-error",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A react hook for doing scroll to an invalid input on onSubmit",
   "author": "dieguezz",
   "license": "GPL-3.0",
